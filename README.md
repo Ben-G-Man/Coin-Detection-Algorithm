@@ -5,7 +5,7 @@ I designed this program as an initial exploration of image processing techniques
 
 The program takes images such as...
 
-![A picture of some coins lying flat on paper next to a complex block of text](https://github.com/Ben-G-Man/Coin-Detection-Algorithm/blob/main/Images/easy_case_6.png)
+![A picture of some coins lying flat on paper](https://github.com/Ben-G-Man/Coin-Detection-Algorithm/blob/main/Images/easy/easy_case_6.png)
 
 ...And returns...
 
