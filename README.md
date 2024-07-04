@@ -5,8 +5,8 @@ I designed this program as an initial exploration of image processing techniques
 
 The program takes images such as...
 
-![A picture of some coins lying flat on paper next to a complex block of text](https://github.com/Ben-G-Man/Coin-Detection-Algorithm/blob/main/example_before.png)
+![A picture of some coins lying flat on paper next to a complex block of text](https://github.com/Ben-G-Man/Coin-Detection-Algorithm/blob/main/Images/easy_case_6.png)
 
 ...And returns...
 
-![The above coin picture with each coin marked by a red rectangle outlining their size](https://github.com/Ben-G-Man/Coin-Detection-Algorithm/blob/main/example_after.png)
+![The above coin picture with each coin marked by a red rectangle outlining their size](https://github.com/Ben-G-Man/Coin-Detection-Algorithm/blob/main/output_images/easy_case_6_with_bbox.png)
